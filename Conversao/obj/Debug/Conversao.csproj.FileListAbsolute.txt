@@ -1,0 +1,8 @@
+C:\Luana-cursos\Conversao\Conversao\bin\Debug\Conversao.exe.config
+C:\Luana-cursos\Conversao\Conversao\bin\Debug\Conversao.exe
+C:\Luana-cursos\Conversao\Conversao\bin\Debug\Conversao.pdb
+C:\Luana-cursos\Conversao\Conversao\obj\Debug\Conversao.csproj.AssemblyReference.cache
+C:\Luana-cursos\Conversao\Conversao\obj\Debug\Conversao.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\Conversao\Conversao\obj\Debug\Conversao.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\Conversao\Conversao\obj\Debug\Conversao.exe
+C:\Luana-cursos\Conversao\Conversao\obj\Debug\Conversao.pdb
